@@ -16,3 +16,5 @@ Pusher motor - 1A DC 12V 1000RPM 25GA 100mA High Torque Electric Gear Box Motor 
 2x ESC - Favourite FVT LittleBee 30A-S 30A - S ESC BLHeli_S OPTO 2-6S Supports Mulitshot Oneshot42 OneShot125 - https://www.aliexpress.com/item/32738195790.html?spm=a2g0s.9042311.0.0.27424c4dZEeaMP
 
 Arduino Nano - https://www.aliexpress.com/item/32341832857.html?spm=a2g0o.productlist.0.0.4a8cf028hfm936&algo_pvid=e57343e9-e8cb-4188-b664-8bf24cf3f05c&algo_expid=e57343e9-e8cb-4188-b664-8bf24cf3f05c-4&btsid=c1f73226-2346-43fc-ab18-1fa7437e3109&ws_ab_test=searchweb0_0,searchweb201602_9,searchweb201603_55
+
+4x 10k resistor - https://www.aliexpress.com/item/32341832857.html?spm=a2g0o.productlist.0.0.4a8cf028hfm936&algo_pvid=e57343e9-e8cb-4188-b664-8bf24cf3f05c&algo_expid=e57343e9-e8cb-4188-b664-8bf24cf3f05c-4&btsid=c1f73226-2346-43fc-ab18-1fa7437e3109&ws_ab_test=searchweb0_0,searchweb201602_9,searchweb201603_55
