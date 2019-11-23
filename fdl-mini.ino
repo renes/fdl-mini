@@ -53,15 +53,7 @@ void setup() {
 
   Serial.begin(9600);
 
-  Serial.println("Booting ...");
-
-
-
-  Serial.println("Please power ESC & hit enter ...");
-  //while (!Serial.available());
-  //Serial.read();
-
-  Serial.println("Booting done");
+  Serial.println("Booting done ...");
 
 }
 
